@@ -25,5 +25,5 @@
 
 <h3 align="left">Some stats :</h3>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eloxfire&show_icons=true&theme=dark&title_color=000000&text_color=ffffff&locale=en&layout=compact" alt="eloxfire" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eloxfire&show_icons=true&theme=dark&title_color=121212&text_color=ffffff&locale=en&layout=compact" alt="eloxfire" /></p>
 </div>
