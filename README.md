@@ -7,7 +7,7 @@ New technologies fan and astronomy enthusiast, I'm currently building [Astroshar
 
 <p style='font-size: 14px'>(Only available in french, for now)<p/>
 
-<img style="border-radius: 20px" src="https://i.ibb.co/Ch1z53P/Banner-bento.png"/>
+<img style="border-radius: 20px" src="[https://i.ibb.co/Ch1z53P/Banner-bento.png](https://i.postimg.cc/Qdtfzm6V/banner-github-profile.png)"/>
 
 ___
 
