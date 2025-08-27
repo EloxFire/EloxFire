@@ -1,5 +1,5 @@
 <h1>Hello 👋, I'm Enzo Avagliano</h1>
-<h3>I'm a Fench Front-end Web developper Specialized with React and NodeJS</h3>
+<h3>I'm a French Front-end Web developper Specialized with React and NodeJS</h3>
 
 
 
