@@ -3,7 +3,7 @@
 
 
 
-New technologies fan and astronomy enthusiast, I'm currently building [Astroshare](https://astroshare.fr) - An online astronomy ressources website and observation night planner for both beginners and experienced astronomers 🔭.
+New technologies fan and astronomy enthusiast, I'm currently building [Astroshare](https://astroshare.fr) - A mobile application dedicated to astronomy and space for both beginners and experienced astronomers 🔭 or just curious minds !
 
 <p style='font-size: 14px'>(Only available in french, for now)<p/>
 
